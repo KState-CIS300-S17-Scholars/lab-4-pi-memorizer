@@ -1,0 +1,9 @@
+C:\Users\Kyle\Documents\CS 300\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Kyle\Documents\CS 300\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\CS 300\Lab4\Lab4\obj\Debug\Lab4.uxForm.resources
+C:\Users\Kyle\Documents\CS 300\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Kyle\Documents\CS 300\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\Kyle\Documents\CS 300\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Kyle\Documents\CS 300\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Kyle\Documents\CS 300\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Kyle\Documents\CS 300\Lab4\Lab4\obj\Debug\Lab4.pdb
